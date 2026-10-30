@@ -1,0 +1,8 @@
+PORTFOLIO DE EIDAN — INSTRUCCIONES
+
+1. Descomprime portfolio_eidan.zip.
+2. Abre index.html en tu navegador.
+3. Mantén index.html y CV_Eidan_Jesus_de_Santiago_Rodriguez.pdf en la misma carpeta para que funcione la descarga del CV.
+4. Para publicarlo, puedes subir ambos archivos a un hosting estático (por ejemplo GitHub Pages o Netlify).
+
+Nota: los proyectos aparecen como áreas de práctica basadas en el CV, no como proyectos independientes inventados. Puedes reemplazarlos por proyectos reales, capturas y enlaces cuando los tengas.
